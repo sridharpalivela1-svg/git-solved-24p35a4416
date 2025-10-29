@@ -1,0 +1,23 @@
+* 0c16cf3 (HEAD -> main, origin/main) docs: Add changelog
+* 527b68c Added GIT_JOURNEY.md file documenting my git journey
+| * a8cb6cd (feature/another-feature) Bad commit
+|/  
+| * f43ef04 (origin/feature/another-feature) docs: Update README
+|/  
+*   e621340 (tag: v1.1.0, tag: v1.0.0) Merge completed with new-feature integration
+|\  
+| * 879c45c (origin/feature/new-feature, feature/new-feature) Added new feature script
+* | 7502a3c docs: Add FAQ section
+|/  
+* c3a812f Resolved README.md merge conflict and finalized content
+*   60a7ca8 Resolved all merge conflicts and completed merge
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   99e2e3b Resolved all merge conflicts and completed merge
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
